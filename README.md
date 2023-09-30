@@ -29,16 +29,23 @@
 
 ### Works
 
-<div align="center"> 
+<div align="center">
+<p align="center">Online-Chat | Vue3, Socket.IO, Node.js(Express.js), Nginx |</p>
+<a href="https://yuriugavrikov.github.io/Chat-vue-socketio/" target="_blank">
+<img src="./assets/chat.jpg" alt="Online-Chat" height="150" />
+</a>
+
+---
+
 <p align="center">Landing page | HTML, CSS, JS |</p>
 <a href="https://yuriugavrikov.github.io/lending-ui-ux-designer/" target="_blank">
-<img src="./assets/lending.png" alt="Git" height="150" />
+<img src="./assets/lending.png" alt="Landing page" height="150" />
 </a>
 
 ---
 
 <p align="center">Weather app | Vue3, SASS |</p>
 <a href="https://yuriugavrikov.github.io/weather-forecast-Vue3/" target="_blank">
-<img src="./assets/weather.png" alt="Node.js" height="150" />
+<img src="./assets/weather.png" alt="Weather app" height="150" />
 </a>  
 </div>
